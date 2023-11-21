@@ -1,0 +1,18 @@
+
+
+ /* h1{
+    color:rebeccapurple;
+ }
+ .w{
+    color: blue;
+} */
+p{
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 30px;
+    word-spacing: 25px;
+    letter-spacing: 10px;
+    text-align: center;
+    text-decoration: line-through;
+}
